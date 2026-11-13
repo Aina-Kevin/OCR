@@ -1,0 +1,34 @@
+RAVINALA LETTRE DE TRANSPORT AERIEN
+AIR WAYBILL (AWB) - Non négociable / Non-negotiable
+
+AIR CARGO
+
+Indian Ocean Freight Network 057-482 15937
+N° de transport (LTA) / AWB number Compagnie de transport / Carrier Fret / Freight
+057-48215937 Ravinala Air Cargo FRET PAYE
+
+Code IATA: RV - Préfixe : 057 FREIGHT PREPAID
+Expéditeur / Shipper Destinataire / Consignee
+Rakoto Textile et Artisanat SARL Boutique Méditerranée Mode SARL
+Lot 45 Bis, Rue des Cocotiers 24 Rue de la République
+Toamasina 501, Madagascar 13002 Marseille, France
+Tél. +261 34 12 345 67 Tél. +33 4 91 23 45 67
+Aéroport de départ / Departure Aéroport d'arrivée / Destination N° de vol / Flight
+Antananarivo - TNR Marseille Provence - MRS RV 482
+Départ prévu / Scheduled departure Arrivée prévue / Scheduled arrival Date d'émission / Date of issue
+06/11/2026 22:40 (heure locale UTC-+3) 07/11/2026 07:10 (UTC-+1) 04/11/2026
+Nombre de piéces / No. of pieces Poids brut / Gross weight Poids taxable / Chargeable Volume
+5 colis 110,0 kg 111,0 kg 0,664 m?
+VETEMENTS ET ARTICLES TEXTILES - 350 pieces 2 900,00 EUR
+T-shirts, polos, jeans, robes en lin, sacs en raphia Facture commerciale FAC-2026-0387
+Non fragile - Garder au sec / Keep dry
+Taux au kg / Rate per kg Total du fret / Total freight Facture payée / Invoice paid
+3,20 EUR 355,20 EUR FAC-2026-0387 - PAYEE
+Réglée le 04/11/2026 - Fret payé a l'origine
+Informations de manutention / Handling information
+Marchandise non fragile. Craint I'humidité : ne pas exposer 4 la pluie.
+Réf. expéditeur : GSM-2026-114852 - Colis : CTN-01 a CTN-05.
+Signature de |'expéditeur / Shipper signature
+| | | | | | I | Hl | | \| | | iH | | | | ii | | Rakoto Textile et Artisanat SARL
+657-48215937 Emis par Ravinala Air Cargo - Toamasina, 04/11/2026
+Document fictif de démonstration - sans valeur de transport réelle.
